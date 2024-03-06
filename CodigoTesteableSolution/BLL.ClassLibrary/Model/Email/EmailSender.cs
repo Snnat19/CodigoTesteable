@@ -46,7 +46,8 @@ namespace BLL.ClassLibrary.Model.Email
         }
 
         //Destructor
-        ~EmailSender() { 
+        ~EmailSender() 
+        { 
             Dispose(false);
         }
     }

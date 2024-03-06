@@ -29,7 +29,8 @@ namespace BLL.ClassLibrary.Model.Documento
             var generarFirma = new GeneradorFirma(); //¡Atencion! Siempre que vea una linea de codigo donde se utilice el operador new se genera alto acoplamiento. sospeche que ahi estamos implementando una mala practica llamada acoplamiento. Donde documento queda dependiendo de GeneradorFirma y si fuera un servicio externo entre otras y noestuviese funcionando, aparte de que la app dejaria de funcionar los test dejarian de correr, si los tests no correr va a tener muchas consecuencias
             return _titulo + _cuerpo + generarFirma.Firma();
         }
-        public void EnviarPorCorreo(string email) {
+        public void EnviarPorCorreo(string email) // ¡Atencion! Este método viola el principio de responsabilidad unica
+        {
             using (EmailSender emailSender = new EmailSender())
             {
                 emailSender.Enviar(email, GenerarDocumento());

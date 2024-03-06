@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\CodigoTesteable\\CodigoTesteableSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12030197-6145-4CF6-8D97-C04FA1711F34}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|c:\\codigotesteable\\codigotesteablesolution\\bll.classlibrary\\model\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12030197-6145-4CF6-8D97-C04FA1711F34}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|solutionrelative:bll.classlibrary\\model\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12030197-6145-4CF6-8D97-C04FA1711F34}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|c:\\codigotesteable\\codigotesteablesolution\\bll.classlibrary\\model\\documento\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12030197-6145-4CF6-8D97-C04FA1711F34}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|solutionrelative:bll.classlibrary\\model\\documento\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12030197-6145-4CF6-8D97-C04FA1711F34}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|c:\\codigotesteable\\codigotesteablesolution\\bll.classlibrary\\model\\firma\\generadorfirma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12030197-6145-4CF6-8D97-C04FA1711F34}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|solutionrelative:bll.classlibrary\\model\\firma\\generadorfirma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F1D43AD-0FB0-47B8-B3FA-3BD61EBD00AB}|UI01.ConsoleApp\\UI01.ConsoleApp.csproj|c:\\codigotesteable\\codigotesteablesolution\\ui01.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1D43AD-0FB0-47B8-B3FA-3BD61EBD00AB}|UI01.ConsoleApp\\UI01.ConsoleApp.csproj|solutionrelative:ui01.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,40 +22,35 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\CodigoTesteable\\CodigoTesteableSolution\\BLL.ClassLibrary\\Model\\Email\\EmailSender.cs",
-              "RelativeDocumentMoniker": "BLL.ClassLibrary\\Model\\Email\\EmailSender.cs",
-              "ToolTip": "C:\\CodigoTesteable\\CodigoTesteableSolution\\BLL.ClassLibrary\\Model\\Email\\EmailSender.cs",
-              "RelativeToolTip": "BLL.ClassLibrary\\Model\\Email\\EmailSender.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAuwDEAAAAbAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CodigoTesteable\\CodigoTesteableSolution\\UI01.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "UI01.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\CodigoTesteable\\CodigoTesteableSolution\\UI01.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "UI01.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T00:38:36.774Z",
+              "WhenOpened": "2024-03-06T01:36:45.125Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Documento.cs",
               "DocumentMoniker": "C:\\CodigoTesteable\\CodigoTesteableSolution\\BLL.ClassLibrary\\Model\\Documento\\Documento.cs",
               "RelativeDocumentMoniker": "BLL.ClassLibrary\\Model\\Documento\\Documento.cs",
               "ToolTip": "C:\\CodigoTesteable\\CodigoTesteableSolution\\BLL.ClassLibrary\\Model\\Documento\\Documento.cs",
               "RelativeToolTip": "BLL.ClassLibrary\\Model\\Documento\\Documento.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T03:45:46.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeneradorFirma.cs",
-              "DocumentMoniker": "C:\\CodigoTesteable\\CodigoTesteableSolution\\BLL.ClassLibrary\\Model\\Firma\\GeneradorFirma.cs",
-              "RelativeDocumentMoniker": "BLL.ClassLibrary\\Model\\Firma\\GeneradorFirma.cs",
-              "ToolTip": "C:\\CodigoTesteable\\CodigoTesteableSolution\\BLL.ClassLibrary\\Model\\Firma\\GeneradorFirma.cs",
-              "RelativeToolTip": "BLL.ClassLibrary\\Model\\Firma\\GeneradorFirma.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T03:46:11.824Z"
+              "WhenOpened": "2024-03-06T02:10:41.359Z",
+              "EditorCaption": ""
             }
           ]
         }
