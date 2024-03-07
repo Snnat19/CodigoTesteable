@@ -1,0 +1,6 @@
+C:\CodigoTesteable\BLL.ClassLibrary.UnitTest\obj\Debug\net8.0\BLL.ClassLibrary.xUnit.UnitTest.csproj.AssemblyReference.cache
+C:\CodigoTesteable\BLL.ClassLibrary.UnitTest\obj\Debug\net8.0\BLL.ClassLibrary.xUnit.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodigoTesteable\BLL.ClassLibrary.UnitTest\obj\Debug\net8.0\BLL.ClassLibrary.xUnit.UnitTest.AssemblyInfoInputs.cache
+C:\CodigoTesteable\BLL.ClassLibrary.UnitTest\obj\Debug\net8.0\BLL.ClassLibrary.xUnit.UnitTest.AssemblyInfo.cs
+C:\CodigoTesteable\BLL.ClassLibrary.UnitTest\obj\Debug\net8.0\BLL.ClassLibrary.xUnit.UnitTest.csproj.CoreCompileInputs.cache
+C:\CodigoTesteable\BLL.ClassLibrary.UnitTest\obj\Debug\net8.0\BLL.ClassLibrary.xUnit.UnitTest.sourcelink.json

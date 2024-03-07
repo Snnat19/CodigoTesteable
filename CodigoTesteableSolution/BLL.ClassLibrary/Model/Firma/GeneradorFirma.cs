@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace BLL.ClassLibrary.Model.Firma
 {
-    public class GeneradorFirma
+    public class GeneradorFirma : IGeneradorFirma
     {
-        internal string Firma()
+        public string Firma()
         {
             string firma = string.Empty;
+
             return firma;
         }
     }

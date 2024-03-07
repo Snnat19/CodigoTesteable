@@ -1,0 +1,12 @@
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\bin\Debug\net8.0\BLL.ClassLibrary.deps.json
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\bin\Debug\net8.0\BLL.ClassLibrary.dll
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\bin\Debug\net8.0\BLL.ClassLibrary.pdb
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.AssemblyInfoInputs.cache
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.AssemblyInfo.cs
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.sourcelink.json
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.dll
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\refint\BLL.ClassLibrary.dll
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.pdb
+C:\CodigoTesteable\CodigoTesteableSolution\BLL.ClassLibrary\obj\Debug\net8.0\ref\BLL.ClassLibrary.dll
